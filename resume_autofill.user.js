@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         秋招简历自动填写助手
 // @namespace    http://tampermonkey.net/
-// @version      2.0.0
+// @version      1.0.0
 // @description  读取本地 profile.json 个人信息，自动填写各大公司招聘官网简历表单（适配 beisen 等 React 自定义组件）
 // @author       你的名字
 // @match        *://beisen.zhiye.com/*
